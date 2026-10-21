@@ -30,5 +30,3 @@ All results use 25 runs with seeds 1000-1024. Seeds 5000 and above were used onl
 N = 5 channels; busy probabilities 0.11, 0.28, 0.42, 0.64, 0.78; p01 + p10 = 0.5; bandwidths 0.6, 1.0, 0.8, 0.7, 0.9;
 emergency probability 0.15; weights 2.5 and 16; kappa_R = 1, kappa_E = 0.25; energy 0.2 + 1.0 + 1.6 per failed attempt; T = 6,000.
 
-## Use of AI assistance
-This code was written and tested with the help of an AI assistant (Claude Sonnet 5.5, Anthropic). The authors reviewed it.
